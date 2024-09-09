@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Nasif's Homepage"
 title_separator          : ""
 name                     : &name "Nasif"
 description              : &description "Searching for the meaning of life ..."
